@@ -1,0 +1,69 @@
+/*
+Syntax error: wrong number of arguments (0 for 1) for `red'
+        on line 1 of /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/variables/_colors.scss
+        from line 1 of /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss
+        from line 2 of /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss
+
+1: /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss
+
+Backtrace:
+/Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/variables/_colors.scss:1
+/Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss:1
+/Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss:2
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/script/funcall.rb:161:in `rescue in _perform'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/script/funcall.rb:99:in `_perform'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/script/node.rb:40:in `perform'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:327:in `visit_variable'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:227:in `block in visit_import'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:227:in `map'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:227:in `visit_import'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:227:in `block in visit_import'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:227:in `map'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:227:in `visit_import'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `block in visit_children'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `map'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:53:in `visit_children'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:109:in `block in visit_children'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:121:in `with_environment'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:108:in `visit_children'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `block in visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:128:in `visit_root'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/base.rb:37:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:100:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/visitors/perform.rb:7:in `visit'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/tree/root_node.rb:20:in `render'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/engine.rb:315:in `_render'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/sass-3.2.12/lib/sass/engine.rb:262:in `render'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:140:in `block (2 levels) in compile'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:139:in `block in compile'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/logger.rb:45:in `red'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:138:in `compile'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:118:in `compile_if_required'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:103:in `block (2 levels) in run'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `each'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:101:in `block in run'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:126:in `timed'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/compiler.rb:100:in `run'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:147:in `recompile'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/commands/watch_project.rb:68:in `perform'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/commands/base.rb:18:in `execute'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/commands/project_base.rb:19:in `execute'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:43:in `perform!'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/lib/compass/exec/sub_command_ui.rb:15:in `run!'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/bin/compass:30:in `block in <top (required)>'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/bin/compass:44:in `call'
+/Users/rapturedesigncompany/.rvm/gems/ruby-1.9.3-p484@omega.niagara_canvas/gems/compass-0.12.2/bin/compass:44:in `<top (required)>'
+/usr/bin/compass:23:in `load'
+/usr/bin/compass:23:in `<main>'
+*/
+body:before {
+  white-space: pre;
+  font-family: monospace;
+  content: "Syntax error: wrong number of arguments (0 for 1) for `red'\A         on line 1 of /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/variables/_colors.scss\A         from line 1 of /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss\A         from line 2 of /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss\A \A 1: /Applications/MAMP/htdocs/niagara/sites/all/themes/niagara_canvas/sass/niagara-canvas.normalize.scss"; }
